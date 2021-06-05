@@ -1,0 +1,39 @@
+body{
+    background-color: #191d28;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+h3{
+    color:#00adb5 ;
+}
+.table{
+width: 92%;
+margin: 0 auto;
+}
+#header-img{
+    display: block;
+    width: 90%;
+    height: 11vh;
+    padding: 15px;
+    margin: 0 auto;
+ 
+}
+.tableHeader,.tableRow{
+display: flex;
+justify-content: space-between;
+}
+.tableHeader{
+color: gray;
+}
+.tableRow{
+background-color:#303241;
+margin-top: 5px;
+border-radius: 15px;
+}
+p{
+    text-align: center;
+    width: 70%;
+}
+.buy-sell{
+    width: 100%;
+}
